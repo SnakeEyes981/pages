@@ -10,4 +10,5 @@ title: Welcome to my blog
 ### Education
 ---
 > Intermediate in Medical Sciences
+---
 > Bachelor's in Computers Sciences (In progress)
